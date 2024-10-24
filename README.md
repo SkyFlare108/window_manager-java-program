@@ -1,2 +1,11 @@
-# Project Description
-I simulated an OS window/tab manager using a LinkedList data structure. I then integrated Java FX to visually display this simulation, and EventListeners were employed to capture mouse input. This combination allowed me to create a user-friendly interface for managing windows and tabs efficiently.
+# OS Window/Tab Manager Simulation 🖥️
+
+Welcome to the **OS Window/Tab Manager Simulation**, a project that demonstrates how to efficiently manage windows and tabs using a **LinkedList** data structure, integrated with a visual interface built with **JavaFX**.
+
+## Project Overview
+
+This simulation mimics the functionality of an operating system's window and tab management. With a clean and intuitive user interface, users can manage windows and tabs dynamically with ease.
+
+## Key Features
+
+- **Efficient Data Structure**: Utilizes a **LinkedList** to simulate window/tab management for quick
