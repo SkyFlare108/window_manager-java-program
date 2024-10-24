@@ -1,4 +1,4 @@
-# OS Window/Tab Manager Simulation 🖥️
+# 🖥️ OS Window/Tab Manager Simulation 
 
 Welcome to the **OS Window/Tab Manager Simulation**, a project that demonstrates how to efficiently manage windows and tabs using a **LinkedList** data structure, integrated with a visual interface built with **JavaFX**.
 
